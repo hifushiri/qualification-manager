@@ -54,3 +54,9 @@ package-lock.json
 dist/
 build/
 static/dist/
+
+# Заметки
+notes.md
+
+# Ключ для Flask-WTF
+config.py
